@@ -13,7 +13,7 @@ exactly this.
 
 import os
 
-LINE = "Your prompt said 'just make it better,' and now you're angry I guessed wrong about what 'better' means."
+LINE = "You wrote 'just make it better' and got mad when I guessed wrong about what 'better' means."
 
 
 def build_line() -> str:
